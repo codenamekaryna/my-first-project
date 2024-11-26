@@ -1,1 +1,1 @@
-this is me just trying to connect visual stuidos with github. bye. 
+this is me just trying to connect visual studios with github. bye. 
